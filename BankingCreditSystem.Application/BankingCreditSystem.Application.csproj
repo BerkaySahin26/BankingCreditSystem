@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <Folder Include="Features\IndividualCustomers\Dtos\" />
-    <Folder Include="Features\IndividualCustomers\Constants\" />
     <Folder Include="Features\IndividualCustomers\Queries\" />
     <Folder Include="Features\IndividualCustomers\Profiles\" />
   </ItemGroup>
