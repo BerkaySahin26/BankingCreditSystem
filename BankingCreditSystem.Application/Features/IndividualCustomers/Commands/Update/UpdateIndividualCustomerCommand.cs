@@ -4,6 +4,10 @@ using System.Threading.Tasks;
 using MediatR;
 using AutoMapper;
 using BankingCreditSystem.Application.Features.IndividualCustomers.Rules;
+using BankingCreditSystem.Application.Services.Repositories;
+using BankingCreditSystem.Application.Features.IndividualCustomers.Constants;
+using BankingCreditSystem.Application.Features.IndividualCustomers.Dtos.Responses;
+using BankingCreditSystem.Application.Features.IndividualCustomers.Dtos.Requests;
 
 namespace BankingCreditSystem.Application.Features.IndividualCustomers.Commands.Update
 {
