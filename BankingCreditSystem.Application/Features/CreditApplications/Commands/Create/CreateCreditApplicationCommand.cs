@@ -1,4 +1,7 @@
 ﻿using AutoMapper;
+using BankingCreditSystem.Application.Features.CreditApplications.Dtos.Requests;
+using BankingCreditSystem.Application.Features.CreditApplications.Dtos.Responses;
+using BankingCreditSystem.Application.Services.Repositories;
 using BankingCreditSystem.Domain.Entities;
 using BankingCreditSystem.Domain.Enums;
 using MediatR;
